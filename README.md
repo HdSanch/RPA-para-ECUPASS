@@ -1,2 +1,2 @@
-# RPA para ECUPASS
+# RPA para ECUAPASS
 
